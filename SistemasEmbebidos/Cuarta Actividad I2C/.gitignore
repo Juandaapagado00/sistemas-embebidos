@@ -1,0 +1,15 @@
+# Archivos que genera Microchip Studio al compilar
+**/Debug/*
+**/Release/*
+!**/Debug/*.hex
+*.o
+*.d
+*.elf
+*.map
+*.lss
+*.srec
+*.eep
+
+# Configuracion local del IDE
+.vs/
+*.atsuo
